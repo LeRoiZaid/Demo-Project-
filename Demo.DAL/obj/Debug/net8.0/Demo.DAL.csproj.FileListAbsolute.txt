@@ -1,0 +1,12 @@
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll

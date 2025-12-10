@@ -1,0 +1,15 @@
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\bin\Debug\net8.0\Demo.BLL.deps.json
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\bin\Debug\net8.0\Demo.BLL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\bin\Debug\net8.0\Demo.BLL.pdb
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\bin\Debug\net8.0\Demo.DAL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\bin\Debug\net8.0\Demo.DAL.pdb
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.Up2Date
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll
