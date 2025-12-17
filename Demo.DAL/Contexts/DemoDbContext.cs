@@ -18,6 +18,7 @@ namespace Demo.DAL.Contexts
     //       optionsBuilder.UseSqlServer("Server= .; Database=DemoDB;Trusted_Connection=true;");
     //    }
        public DbSet<Models.Department> Departments { get; set; }
+         public DbSet<Models.Employee> Employees { get; set; }
     }
 }
 //MultipleActiveResultSets = true

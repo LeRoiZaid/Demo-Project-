@@ -13,3 +13,4 @@ D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
 D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
 D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
 D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll
+D:\Route\07 ASP.NET Core MVC\Demo Project\Demo.BLL\obj\Debug\net8.0\Demo.BLL.sourcelink.json

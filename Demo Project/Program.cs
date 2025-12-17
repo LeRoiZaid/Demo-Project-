@@ -17,6 +17,7 @@ namespace Demo_Project
                 (options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            builder.Services.AddScoped<IEmployeeRepo, EmployeeRepo>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

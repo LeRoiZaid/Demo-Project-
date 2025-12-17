@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CCD01FF-3FB5-4A53-8C1C-B51ACF11203C}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCD01FF-3FB5-4A53-8C1C-B51ACF11203C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.dal\\contexts\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\contexts\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\demo project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\demo project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CCD01FF-3FB5-4A53-8C1C-B51ACF11203C}|Demo.BLL\\Demo.BLL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2CCD01FF-3FB5-4A53-8C1C-B51ACF11203C}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5ADE4A16-356A-4349-B132-379886599B2B}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\views\\employee\\partial\\_detailsdeletepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\views\\employee\\partial\\_detailsdeletepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|d:\\route\\07 asp.net core mvc\\demo project\\demo project\\views\\employee\\partial\\_createupdatepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD4410E-DCA3-4BC4-BC9F-1DB96F671ED5}|Demo Project\\Demo Project.csproj|solutionrelative:demo project\\views\\employee\\partial\\_createupdatepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Demo Project\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\DepartmentsController.cs*",
-              "RelativeToolTip": "Demo Project\\Controllers\\DepartmentsController.cs*",
-              "ViewState": "AgIAAJIAAAAA0szMzMwtwIEAAAAaAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Employee.cs",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Models\\Employee.cs*",
+              "RelativeToolTip": "Demo.DAL\\Models\\Employee.cs*",
+              "ViewState": "AgIAAB4AAABA/////184wCQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T05:30:34.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\appsettings.json",
-              "RelativeDocumentMoniker": "Demo Project\\appsettings.json",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\appsettings.json",
-              "RelativeToolTip": "Demo Project\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-10T05:09:57.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Demo Project",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Demo Project.csproj",
-              "RelativeDocumentMoniker": "Demo Project\\Demo Project.csproj",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Demo Project.csproj",
-              "RelativeToolTip": "Demo Project\\Demo Project.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-10T03:42:27.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Notes.cs",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Notes.cs",
-              "RelativeDocumentMoniker": "Notes.cs",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Notes.cs",
-              "RelativeToolTip": "Notes.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAABovXkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T05:04:04.371Z",
+              "WhenOpened": "2025-12-17T01:18:59.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DemoDbContext.cs",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Contexts\\DemoDbContext.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Contexts\\DemoDbContext.cs",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Contexts\\DemoDbContext.cs",
-              "RelativeToolTip": "Demo.DAL\\Contexts\\DemoDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T03:46:56.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.BLL\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.BLL\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "Demo.BLL\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T04:04:13.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
               "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Models\\Department.cs",
               "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAgZmZmZmYkwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T03:42:29.969Z",
+              "WhenOpened": "2025-12-17T01:15:11.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Demo Project\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Demo Project\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAACQAAABgZmZmZmY6wDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T01:11:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo Project\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Demo Project\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T01:09:52.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_DetailsDeletePartial.cshtml",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Employee\\Partial\\_DetailsDeletePartial.cshtml",
+              "RelativeDocumentMoniker": "Demo Project\\Views\\Employee\\Partial\\_DetailsDeletePartial.cshtml",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Employee\\Partial\\_DetailsDeletePartial.cshtml",
+              "RelativeToolTip": "Demo Project\\Views\\Employee\\Partial\\_DetailsDeletePartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T01:08:05.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC4AAAAA+/////8fwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:54:26.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Demo.BLL",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-10T03:42:26.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Demo.DAL",
-              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
-              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-10T03:42:30.039Z",
+              "Title": "_CreateUpdatePartial.cshtml",
+              "DocumentMoniker": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Employee\\Partial\\_CreateUpdatePartial.cshtml",
+              "RelativeDocumentMoniker": "Demo Project\\Views\\Employee\\Partial\\_CreateUpdatePartial.cshtml",
+              "ToolTip": "D:\\Route\\07 ASP.NET Core MVC\\Demo Project\\Demo Project\\Views\\Employee\\Partial\\_CreateUpdatePartial.cshtml",
+              "RelativeToolTip": "Demo Project\\Views\\Employee\\Partial\\_CreateUpdatePartial.cshtml",
+              "ViewState": "AgIAABQAAADAMjMzMzMrwCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T00:52:13.785Z",
               "EditorCaption": ""
             }
           ]
